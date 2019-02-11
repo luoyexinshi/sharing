@@ -18,4 +18,4 @@ Once you open the web in your browser (the instruction of how to open the app is
 Run the following command in the app's directory to run your web app.
     `python run.py`
 
-Go to https://view6914b2f4-3001.udacity-student-workspaces.com/
+Go to http://0.0.0.0:3001/
